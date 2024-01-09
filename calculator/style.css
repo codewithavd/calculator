@@ -1,0 +1,28 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Roboto:wght@300&display=swap');
+html,
+body {
+  font-family: 'Josefin Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+  height: 100%;
+  width: 100%;
+}
+.btn {
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+.row {
+  margin: 6px 0;
+}
+.input {
+  margin: 0;
+  padding: 10px 34px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
